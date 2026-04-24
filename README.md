@@ -1,62 +1,77 @@
-<h1 align="center">Hi 👋, I'm AHMED LOUCIF</h1>
-<h3 align="center">💻 Web Developer from Algeria</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Loucif</h1>
+<h3 align="center">💻 Computer Science Student — Software Engineer</h3>
+
+<p align="center">
+📍 Constantine, Algeria | 📧 louciftamer3@email.com  
+🔗 <a href="https://github.com/lo-ucif">GitHub</a> | 
+<a href="https://linkedin.com/in/Ahmed-Loucif">LinkedIn</a>
+</p>
 
 ---
 
-### 👯 I’m looking to collaborate on
-- 🤝 Open Source Web Projects  
-- 🔗 https://github.com/lo-ucif  
+## 🚀 Profile
 
-### 🤝 I’m looking for help with
-- ⚙️ Advanced Backend Architecture & Scaling  
-
-### 🌱 I’m currently learning
-- ⚛️ Advanced React & Next.js  
-- 🧠 AI Integration in Web Apps  
-- 🐳 Docker & DevOps  
-
-### 💬 Ask me about
-- React, Vue, GSAP, Frontend Performance 🚀  
-
-### 📫 How to reach me
-- 📧 tameur_ahmed.loucif@univ-constantine2.dz  
-
-### ⚡ Fun fact
-- 😂 I think I am funny  
+- 🎯 Computer Science student focused on **Frontend & MERN Stack**
+- ⚛️ Build responsive web apps using **React & Tailwind CSS**
+- 🔗 Experience with **MongoDB, Express.js, Node.js**
+- 🎨 اهتمام بـ **UI/UX Design** وتحسين تجربة المستخدم
+- 📈 أبحث عن فرص لتطوير مهاراتي والعمل على مشاريع حقيقية
 
 ---
 
-## 🚀 Skills
+## 🛠️ Projects
 
-### 🧠 Programming Languages
-`JavaScript` `TypeScript` `Java` `Python` `C` `C++` `C#` `Go` `PHP`
+### 📚 Library Web App
+- Web app for browsing and managing a digital library  
+- Focused on responsive UI & UX  
+- **Tech:** React, JavaScript, CSS  
 
-### 🎨 Frontend Development
-`React` `Vue.js` `Tailwind CSS` `HTML5` `CSS3` `Redux` `GSAP`
+---
 
-### ⚙️ Backend Development
-`Node.js` `Express` `Spring` `GraphQL` `NestJS`
+### 📝 Note Web App (MERN)
+- Full-stack note app with authentication & CRUD  
+- Built REST APIs & integrated frontend/backend  
+- **Tech:** MongoDB, Express, React, Node.js, TypeScript, Tailwind  
 
-### 📱 Mobile Development
-`React Native` `Flutter` `Android`
+---
 
-### 🤖 AI / ML
-`TensorFlow` `PyTorch` `Pandas` `OpenCV`
+### 🎧 Headphone Website
+- Product landing page with modern UI  
+- Fully responsive design  
+- **Tech:** React, JavaScript, Tailwind  
+
+---
+
+### 🌦️ Weather App
+- Real-time weather using external APIs  
+- Interactive UI  
+- **Tech:** TypeScript, React, REST API, Tailwind  
+
+---
+
+### 🌐 Network Simulation (Java MVC)
+- Simulates network behavior with visualization  
+- Uses core algorithms & data structures  
+- **Tech:** Java, Swing, MySQL  
+
+---
+
+## ⚡ Technical Skills
+
+### 💻 Programming
+`Java` `C` `JavaScript` `TypeScript`
+
+### 🌐 Web Development
+`HTML` `CSS` `Tailwind` `React` `Node.js` `Express` `REST API`
 
 ### 🗄️ Databases
-`MongoDB` `MySQL` `PostgreSQL` `Redis`
+`MongoDB` `MySQL` `Oracle SQL`
 
-### 📊 DevOps & Tools
-`Docker` `AWS` `Git` `Linux` `Nginx`
+### 🧰 Tools
+`Git` `GitHub` `VS Code` `Linux` `Figma` `Postman`
 
-### 🎨 Design Tools
-`Figma` `Adobe XD` `Photoshop`
-
----
-
-## 🌐 Connect with me
-
-- 💻 GitHub: https://github.com/lo-ucif  
+### 🧠 Concepts
+`OOP (Object-Oriented Programming)`
 
 ---
 
@@ -70,17 +85,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lo-ucif&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lo-ucif&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lo-ucif&theme=onedark&row=1&column=6" />
-</p>
-
 ---
 
 ## 📈 Activity Graph
@@ -90,12 +94,15 @@
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lo-ucif&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+## 📬 Contact Me
+
+- 📧 Email: louciftamer3@email.com  
+- 🔗 GitHub: https://github.com/lo-ucif  
+- 💼 LinkedIn: https://linkedin.com/in/Ahmed-Loucif  
+- 📱 Phone: +213676244189  
 
 ---
 
-## ☕ Support Me
-- ☕ https://www.buymeacoffee.com/lo-ucif
+## 🎯 Status
+- 🟢 Open for Work (Web Development)
+- 🚀 Always learning & building
