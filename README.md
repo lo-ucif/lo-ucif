@@ -3,7 +3,7 @@
 
 <p align="center">
 📍 Constantine, Algeria | 📧 louciftamer3@email.com  
-🔗 <a href="https://github.com/lo-ucif">GitHub</a> | 
+🔗 <a href="https://github.com/lo-ucif">GitHub</a> |  
 <a href="https://linkedin.com/in/Ahmed-Loucif">LinkedIn</a>
 </p>
 
@@ -75,6 +75,14 @@
 
 ---
 
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lo-ucif&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -88,6 +96,7 @@
 ---
 
 ## 📈 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lo-ucif&theme=tokyo-night" />
 </p>
@@ -104,5 +113,6 @@
 ---
 
 ## 🎯 Status
+
 - 🟢 Open for Work (Web Development)
 - 🚀 Always learning & building
