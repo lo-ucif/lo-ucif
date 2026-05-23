@@ -12,11 +12,15 @@
 ## 🚀 Profile
 
 
-🎯 Computer Science student focused on Frontend Development and the MERN Stack
-⚛️ Build responsive and modern web applications using React and Tailwind CSS
-🔗 Experienced with MongoDB, Express.js, Node.js, and full-stack development concepts
-🎨 Passionate about UI/UX design and creating better user experiences
-📈 Seeking opportunities to improve my skills and work on real-world projects
+🎯 Computer Science student focused on Frontend Development & MERN Stack  
+
+⚛️ Building responsive and modern web applications with React, TypeScript & Tailwind CSS  
+
+🔗 Experience with MongoDB, Express.js, Node.js and full-stack development concepts  
+
+🎨 Passionate about UI/UX design and crafting smooth user experiences  
+
+📈 Always learning and building real-world projects  
 
 ---
 
