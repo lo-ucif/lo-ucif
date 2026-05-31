@@ -14,7 +14,7 @@
 
 🎯 Computer Science student focused on Frontend Development & MERN Stack  
 
-⚛️ Building responsive and modern web applications with React, TypeScript & Tailwind CSS  
+⚛️ Building responsive and modern web applications with Next js , React, TypeScript & Tailwind CSS  
 
 🔗 Experience with MongoDB, Express.js, Node.js and full-stack development concepts  
 
