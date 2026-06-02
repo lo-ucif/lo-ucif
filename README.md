@@ -24,42 +24,6 @@
 
 ---
 
-## 🛠️ Projects
-
-### 📚 Library Web App
-- Web app for browsing and managing a digital library  
-- Focused on responsive UI & UX  
-- **Tech:** React, JavaScript, CSS  
-
----
-
-### 📝 Note Web App (MERN)
-- Full-stack note app with authentication & CRUD  
-- Built REST APIs & integrated frontend/backend  
-- **Tech:** MongoDB, Express, React, Node.js, TypeScript, Tailwind  
-
----
-
-### 🎧 Headphone Website
-- Product landing page with modern UI  
-- Fully responsive design  
-- **Tech:** React, JavaScript, Tailwind  
-
----
-
-### 🌦️ Weather App
-- Real-time weather using external APIs  
-- Interactive UI  
-- **Tech:** TypeScript, React, REST API, Tailwind  
-
----
-
-### 🌐 Network Simulation (Java MVC)
-- Simulates network behavior with visualization  
-- Uses core algorithms & data structures  
-- **Tech:** Java, Swing, MySQL  
-
----
 
 ## ⚡ Technical Skills
 
@@ -80,33 +44,6 @@
 
 ---
 
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lo-ucif&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lo-ucif&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lo-ucif&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lo-ucif&theme=tokyo-night" />
-</p>
-
----
 
 ## 📬 Contact Me
 
